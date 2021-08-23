@@ -1,1 +1,1 @@
-## React Projects Starter APP
+## React Tours site setup with loading effect, fetch data, remove elements.
